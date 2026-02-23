@@ -110,7 +110,7 @@ header {
  
 /* Navigation */
 nav {
-    background-color: white;
+    background-color: black;
     padding: 10px;
     text-align: center;
     border-top: 1px solid black;
@@ -155,4 +155,5 @@ footer {
     padding: 10px;
 }
  
+
 
