@@ -103,7 +103,7 @@ body {
 /* Header */
 header {
     background-color: black;
-    color: white;
+    color: black;
     padding: 20px;
     text-align: center;
 }
@@ -155,3 +155,4 @@ footer {
     padding: 10px;
 }
  
+
